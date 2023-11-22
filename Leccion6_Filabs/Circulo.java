@@ -9,7 +9,7 @@ import java.awt.Graphics;
 
 /**
  *
- * @author jenni
+ * @author Dominique
  */
 public class Circulo extends FiguraGrafica{
     
